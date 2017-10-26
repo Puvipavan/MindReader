@@ -6,7 +6,7 @@ All valid pull requests will be accepted. Please don't take this project serious
 Thank you for your interest in the project!
 
 <div align="center">
-  <h3>Made with <3 in PHP </h3>
+  <h3>Made with &#10084; in PHP </h3>
     </div>
 
 
