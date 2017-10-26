@@ -5,7 +5,9 @@ This is a small, yet, fun game which uses simple mathematics. I had created this
 All valid pull requests will be accepted. Please don't take this project seriously!
 Thank you for your interest in the project!
 
-### Made with <3 in PHP
+<div align="center">
+  <h3>Made with <3 in PHP </h3>
+    </div>
 
 
 <div align="center">
