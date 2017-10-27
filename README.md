@@ -1,5 +1,5 @@
 # MindReader 
-This is a small, yet, fun game which uses simple mathematics. I had created this game in 2012 for my website, since my website is inactive, I decided to share it with you all. 
+This is a small, yet, fun game which uses simple mathematics. I had created this game in 2015 for my website : http://www.alienlikers.com/, since my website is inactive, I decided to share it with you all. 
 
 ## Info
 All valid pull requests will be accepted. Please don't take this project seriously!
